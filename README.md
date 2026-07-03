@@ -17,9 +17,11 @@
 ### 🌟 About Me
 
 - 🎓 Prefinal year CS student at **RMK College of Engineering and Technology** (CGPA: 8.8)
-- 💻 Building full-stack products with strong **OOP fundamentals** and **data structures**
+- 👩‍💻 Passionate about building **AI-powered & real-world software solutions**
+- 💻 Strong foundation in **OOP fundamentals**, **data structures**, and full-stack development
 - 🔐 Aspiring cybersecurity professional — completed the **ISC2 Certified in Cybersecurity (CC)** examination
 - 🚀 Currently building an **LMS platform** with a modular, OOP-driven backend
+- 🎯 Goal: become a job-ready **AI / Software Engineer**
 - 📫 Reach me at **dhaarini1806@gmail.com**
 
 ---
@@ -34,6 +36,14 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**AI / ML**
+![OpenAI](https://img.shields.io/badge/-OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-CNN%20(ResNet)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square&logo=googlescholar&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/-Model%20Evaluation-0A9EDC?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -68,6 +78,10 @@
 | 🎯 [**Career Genie**](https://github.com/Dhaarini1806/career_genie) | Full-stack career guidance platform with auth & optimized deployment pipeline | React, Node.js, PostgreSQL |
 | 🔍 [**VerifyAI**](https://github.com/Dhaarini1806/VerifyAI) | Multi-modal content analysis system for detecting AI-generated content | Next.js, FastAPI, Firebase |
 | 🔐 [**BufferAuth**](https://github.com/Dhaarini1806/BufferAuth) | Passwordless authentication system | HTML, JavaScript |
+| ❤️ **VitaTrack** | Health & productivity tracking app | React, Node.js |
+| 🧘 **Mind-Balance** | Mental wellness web app | React, Firebase |
+
+*👉 Check my pinned repositories below for the full list.*
 
 ---
 
